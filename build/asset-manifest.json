@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/ISiT/static/css/main.a14e3200.css",
+    "main.js": "/ISiT/static/js/main.c17c4c21.js",
+    "static/js/787.ccdb8fb1.chunk.js": "/ISiT/static/js/787.ccdb8fb1.chunk.js",
+    "static/media/Group 177.png": "/ISiT/static/media/Group 177.d9068fcb1efacf4a764a.png",
+    "static/media/Group 172.jpg": "/ISiT/static/media/Group 172.f0d7c307d3ca2a8a0c09.jpg",
+    "static/media/кибертянка.jpg": "/ISiT/static/media/кибертянка.cd051ab1662ba3f9fcb1.jpg",
+    "static/media/Play-Regular.ttf": "/ISiT/static/media/Play-Regular.e0424c5771f87080b05e.ttf",
+    "static/media/Tsukanov Gleb Konstantinovich.jpg": "/ISiT/static/media/Tsukanov Gleb Konstantinovich.b0e8530ee26553f62f60.jpg",
+    "static/media/image(6).png": "/ISiT/static/media/image(6).0b07ac5a86ed4f363971.png",
+    "static/media/image (4).png": "/ISiT/static/media/image (4).8ee48e26ec799b6f8762.png",
+    "static/media/Fedenko Anton Olegovich.webp": "/ISiT/static/media/Fedenko Anton Olegovich.68defc91daff00452344.webp",
+    "static/media/Petrov Alexey Mikhailovich.jpeg": "/ISiT/static/media/Petrov Alexey Mikhailovich.c92d8cbd44bcb61a113c.jpeg",
+    "static/media/IMAGE.png": "/ISiT/static/media/IMAGE.efa9b0117d3ec4db5e71.png",
+    "static/media/Faddeenkov Andrey Vladimirovich.jpeg": "/ISiT/static/media/Faddeenkov Andrey Vladimirovich.1775ae733c5160187c10.jpeg",
+    "static/media/Dyptan Yelena Arnoldovna.jpeg": "/ISiT/static/media/Dyptan Yelena Arnoldovna.5c5ac8ee4051d57a01ef.jpeg",
+    "static/media/innov2.webp": "/ISiT/static/media/innov2.d8706423ef2f2ac660fb.webp",
+    "static/media/innov.webp": "/ISiT/static/media/innov.8d67c4d577f734af0829.webp",
+    "static/media/Belyaev Igor Sergeevich.jpeg": "/ISiT/static/media/Belyaev Igor Sergeevich.d71e4fcf4a61026a21b2.jpeg",
+    "static/media/image (1).png": "/ISiT/static/media/image (1).f98e2c706a69106d7698.png",
+    "static/media/Popkova Alla Alexeevna.jpeg": "/ISiT/static/media/Popkova Alla Alexeevna.ded80bed22f1b197e5bb.jpeg",
+    "static/media/image (5).png": "/ISiT/static/media/image (5).7acb4f0e703fb841733a.png",
+    "static/media/Bodryakova Ludmila Vladimirovna.jpeg": "/ISiT/static/media/Bodryakova Ludmila Vladimirovna.906707fe12d201d02943.jpeg",
+    "static/media/image (2).png": "/ISiT/static/media/image (2).88a38c5e5ad7c5113295.png",
+    "static/media/But Vladislav Vladimirovich.webp": "/ISiT/static/media/But Vladislav Vladimirovich.07b0726a65c13e564f16.webp",
+    "static/media/image (3).png": "/ISiT/static/media/image (3).cba656e0067fdb0c8fab.png",
+    "static/media/logo.svg": "/ISiT/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ISiT/index.html",
+    "main.a14e3200.css.map": "/ISiT/static/css/main.a14e3200.css.map",
+    "main.c17c4c21.js.map": "/ISiT/static/js/main.c17c4c21.js.map",
+    "787.ccdb8fb1.chunk.js.map": "/ISiT/static/js/787.ccdb8fb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a14e3200.css",
+    "static/js/main.c17c4c21.js"
+  ]
+}
