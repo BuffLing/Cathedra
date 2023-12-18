@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Play&display=swap');
+
+@font-face {
+  font-family: "Play";
+  src: local(Play-Regular),
+  url('./Play/Play-Regular.ttf') format("Play-Regular");
+}
+
+
+body {
+  margin: 0;
+  font-family:-apple-system, BlinkMacSystemFont,'Play' 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family:Play, source-code-pro, Menlo, Monaco, Consolas,'Play', 'Courier New',
+    monospace;
+}

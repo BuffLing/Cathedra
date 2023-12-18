@@ -1,0 +1,87 @@
+*,*::before, * ::after {
+ box-sizing: border-box;
+ margin: 0;
+ padding: 0;
+}
+
+body {
+    background-color: #000;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-self: center;
+    align-items: center;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #000;
+    width: fit-content;
+    padding: 2rem;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    width: 100vw;
+}
+
+h1, h5, p{
+    font-family: Play;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+
+img {
+    border-radius: .5rem;
+    margin-bottom: 1rem;
+    width: 250px;
+    height: 250px;
+}
+
+.table_center{
+    width: 300px;
+    border:5px solid #de1313;
+    margin: auto;
+}
+
+.color {
+    color: rgb(12, 102, 38);
+    background-color: #000000;
+    }
+
+        .colorWhite {
+        color: rgb(255, 255, 255);
+        background-color: #000000;
+        }
+
+        .social {display: inline-block;}
+        .social a {
+            display: block;
+            width: 48px;
+            height: 48px;
+            margin: 0 10px 10px 0;
+            text-align: center;
+            color: #000;
+            background: #fff;
+            border: 1px solid #ccc;
+            border-radius: 24px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.15), inset 0 0 50px rgba(0,0,0,0.1);
+        }
+        .social a:hover {color: #fff;}
+        .social svg {
+            margin-top: 7px;
+            width: 32px;
+            height: 32px;
+        }
+        .odnoklassniki a:hover {background: #f93;}
+        .skype a:hover {background: #00aff0;}
+        .telegram a:hover {background: #249bd7;}
+        .twitter a:hover {background: #00acee;}
+        .viber a:hover {background: #7b519d;}
+        .vk a:hover {background: #4a76a8;}
+        .whatsapp a:hover {background: #50b154;}
+        .youtube a:hover {background: #c4302b;}
